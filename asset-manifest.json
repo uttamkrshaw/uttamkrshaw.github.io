@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3635802.css",
+    "main.js": "/static/js/main.ebe03df6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/purplle.png": "/static/media/purplle.9088ff4c158914ac2b99.png",
+    "static/media/sastabazar.png": "/static/media/sastabazar.a7cec6b8f7609a4bc70e.png",
+    "static/media/about-img.webp": "/static/media/about-img.62b47e7f183d4b4e9feb.webp",
+    "static/media/pfp_webp.jpg": "/static/media/pfp_webp.862c5c99b2d2c314d99f.jpg",
+    "static/media/waving.png": "/static/media/waving.1bae5fcfb51082b5c2b4.png",
+    "static/media/working-emoji.png": "/static/media/working-emoji.c5325f52b5be329995a5.png",
+    "static/media/text2.svg": "/static/media/text2.331e850f4f58ed999e1c76ab7c539978.svg",
+    "static/media/react.svg": "/static/media/react.afac9c43724070bf6674f2692b7356a9.svg",
+    "static/media/redux.svg": "/static/media/redux.a423e7c4413e895f51dd2ad65a0c596a.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg",
+    "static/media/expressjs.svg": "/static/media/expressjs.6fbc40f6fb93ab11f2da87d5cbc3ae9a.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.3beac5ba18197ccbdea6e2f53e18edcf.svg",
+    "index.html": "/index.html",
+    "static/media/javascript.svg": "/static/media/javascript.de4c2594613e34b15666206bbede7327.svg",
+    "static/media/css3.svg": "/static/media/css3.9cecabbf6ce67609c48bc4f280a11002.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.79614a5f61617ba49a0891494521226b.svg",
+    "static/media/docker.svg": "/static/media/docker.c510bf4034a4d1d97085e5234d3db1bf.svg",
+    "static/media/html.svg": "/static/media/html.6e7b1b463015c056aeb9a624c8dc2876.svg",
+    "main.f3635802.css.map": "/static/css/main.f3635802.css.map",
+    "main.ebe03df6.js.map": "/static/js/main.ebe03df6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3635802.css",
+    "static/js/main.ebe03df6.js"
+  ]
+}
